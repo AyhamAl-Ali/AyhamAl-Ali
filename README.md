@@ -35,7 +35,7 @@
 
 ![Metrics](https://metrics.lecoq.io/AyhamAl-Ali?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AyhamAl-Ali&theme=merko)](https://www.opg4merms.com)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AyhamAl-Ali&theme=merko)](https://www.opg4mers.com)
  
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyhamAl-Ali&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://www.opg4merms.com)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyhamAl-Ali&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://www.opg4mers.com)
